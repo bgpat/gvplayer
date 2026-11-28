@@ -9,7 +9,6 @@
     "gomodTidy",
     "gomodUpdateImportPaths"
   ],
-  "major": {
-    "automerge": false
-  }
+  "automerge": true,
+  "platformAutomerge": true
 }
